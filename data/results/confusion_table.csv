@@ -1,0 +1,6 @@
+,Pred bus,Pred car,Pred motorcycle,Pred truck,Pred (ไม่เจอ)
+Actual bus,118,4,0,2,23
+Actual car,1,865,3,22,115
+Actual motorcycle,0,4,1045,0,215
+Actual truck,5,20,0,309,39
+Actual (ไม่มีรถจริง),10,95,189,56,0

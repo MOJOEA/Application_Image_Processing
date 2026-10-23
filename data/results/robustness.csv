@@ -1,0 +1,6 @@
+condition,mAP50,mAP50-95,precision,recall
+Original,0.905,0.6753,0.8708,0.8251
+Night,0.7913,0.5463,0.8116,0.6961
+Night + Gamma/CLAHE,0.6234,0.4138,0.6741,0.5751
+Noise (salt&pepper),0.6109,0.3886,0.6566,0.5897
+Noise + Median filter,0.8881,0.658,0.8677,0.8085

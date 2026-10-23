@@ -1,0 +1,2 @@
+mAP50,mAP50-95,Precision,Recall,F1,Inference ms/img,Best conf (max F1)
+0.9048,0.6756,0.8578,0.8361,0.8468,239.258,0.37
