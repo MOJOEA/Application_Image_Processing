@@ -1,0 +1,12 @@
+{
+  "class_names": [
+    "bus",
+    "car",
+    "motorcycle",
+    "truck"
+  ],
+  "imgsz": 640,
+  "recommended_conf": 0.37,
+  "model": "yolo11n.pt",
+  "dataset": "roboflow:pram/vehicle-counting-flusm/v5"
+}
